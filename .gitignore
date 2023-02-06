@@ -3,3 +3,10 @@ ny_taxi_postgres_data/
 .ipynb_checkpoints
 *.csv
 *.gz
+*.json
+
+## Terraform
+*.tfstate
+*.tfstate.backup
+*.lock.hcl
+.terraform
