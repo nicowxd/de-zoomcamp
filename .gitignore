@@ -1,8 +1,13 @@
 ny_taxi_postgres_data/
 .DS_Store
 .ipynb_checkpoints
+__pycache__
+## Dataset Files
+*.parquet
 *.csv
 *.gz
+
+## Credentials
 *.json
 
 ## Terraform
