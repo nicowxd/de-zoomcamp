@@ -1,2 +1,2 @@
 # de-zoomcamp
-Repository for the DE zoomcamp create by DataTalksClub
+Repository for the DE zoomcamp created by DataTalksClub
