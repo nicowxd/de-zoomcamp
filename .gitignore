@@ -1,4 +1,14 @@
+# MacOS utility
+*.DS_STORE
+
+# Data
 *.parquet
+*.csv
+
+# ServiceKeys
+/01-docker-terraform/lessons/terraform-demo/keys/
+
+*.terraform.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
